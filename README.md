@@ -1,4 +1,4 @@
-# buster-image
+# sid-image
 
 ## Description
 
