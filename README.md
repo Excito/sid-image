@@ -6,7 +6,7 @@ In this repository you will find all the steps and extra files used to create th
 
 Given the fact that image creation is not done every day there is no scripted/automated method to create it ; instead all the steps needed (and taken) to create the released image will be described in this README. It will be updated with each release.
 
-The current version for the excito Bubba|2 sid image is **1.0**
+The current version for the excito Bubba|2 sid image is **20200402**
 
 ## Contents
 
