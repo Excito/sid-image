@@ -1,0 +1,10 @@
+[Unit]
+Description=Post imaging script
+Before=ssh.service
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/sbin/first-boot.sh
+
+[Install]
+WantedBy=multi-user.target
